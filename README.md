@@ -13,3 +13,7 @@ I make games, apps and extensions mostly with JS. Feel free to [contact me](mail
 - [Klondike Solitaire](https://github.com/terrygonguet/solitaire) - Simple little game to learn Vue
 
 and [more](https://github.com/terrygonguet?tab=repositories)!
+
+## Other places
+
+[Here](https://keyoxide.org/terry@gonguet.com) is a page that lists where you can find me, [verified cryptographically](https://keyoxide.org/).
