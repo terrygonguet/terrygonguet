@@ -4,7 +4,7 @@
 
 ## Extensions
 
-- [Youtube](https://youtube-extensions.gonguet.com) - A set of vaguely maintained browser extensions for Youtube
+- [Youtube Ends At](https://youtube-ends-at.gonguet.com/) - An extension to show at what time a Youtube video will end
 
 ## Code
 
@@ -14,7 +14,6 @@
 ## Games
 
 - [Webcells](https://webcells.gonguet.com) - A web version of the Hexcells puzzle games
-- [Youtube Ends At](https://youtube-ends-at.gonguet.com/) - An extension to show at what time a Youtube video will end
 - [Project Vitruvius](https://github.com/terrygonguet/vitruvius) - Weird game experiment
 - [Klondike Solitaire](https://github.com/terrygonguet/solitaire) - Simple little game to learn Vue
 
